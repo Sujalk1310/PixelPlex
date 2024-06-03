@@ -1,6 +1,11 @@
 # PixelPlex
 ## Live At: https://pixel-plex-frontend-myau.vercel.app/
-## Note: This site is specifically build for displays having resolution **1920x1080**, due to time limitations, the responsiveness of the site cannot be catered to.
+
+## Tech Stack:
+* ReactJS
+* NodeJS
+* ExpressJS - Rest API
+* MongoDB Atlas
 
 # Instructions
 To setup the project in your local environment, here are the following steps:
@@ -12,7 +17,9 @@ To setup the project in your local environment, here are the following steps:
 * Launch the **Backend-Server** by using the command `npm start` in the specific folder.
 * Launch **Frontend** by using command `npm run dev` in the specific folder.
 * The site should be live at `http://localhost:5173/`.
-
-## Note: The site cannot switch to a shareable link, which limits vercel deployments technique. Localhost deployment can enjoy shareable link feature.
+  
+## Note:
+* This site is specifically build for displays having resolution **1920x1080**, due to time limitations, the responsiveness of the site cannot be catered to.
+* The site cannot switch to a shareable link, which limits vercel deployments technique. Localhost deployment can enjoy shareable link feature.
 
   

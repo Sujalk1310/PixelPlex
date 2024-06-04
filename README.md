@@ -19,7 +19,5 @@ To setup the project in your local environment, here are the following steps:
 * The site should be live at `http://localhost:5173/`.
   
 ## Note:
-* This site is specifically build for displays having resolution **1920x1080**, due to time limitations, the responsiveness of the site cannot be catered to.
-* The site cannot switch to a shareable link, which limits vercel deployments technique. Localhost deployment can enjoy shareable link feature.
+* This site is specifically build for displays having resolution **1920x1080**, due to time limitations, the responsiveness of the site cannot be catered to.  
 
-  
